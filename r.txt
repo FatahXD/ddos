@@ -1,5 +1,3 @@
-`ALL PIP MODULES`
-Information by https://t.me/DestroyerLinuxPropaly46
 aiohttp                 
 aiosignal               
 anyio                   
